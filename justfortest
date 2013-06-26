@@ -1,0 +1,9 @@
+<?php
+  /*2013
+   *author:king
+   *
+   */
+
+  echo "Hello World";
+  
+  ?>
